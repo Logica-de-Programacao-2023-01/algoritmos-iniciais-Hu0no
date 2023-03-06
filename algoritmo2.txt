@@ -1,0 +1,7 @@
+1: C = Celsius, F = Fahrenheit e T = Temperatura
+2: Leia TC ou TF
+3: Se T estiver em C Então
+4: TC * 1,8 + 32 = resultado
+5: Senão Se T estiver em F Então
+6:  TF = resultado * 1,8 + 32
+7: Escreva resultado
