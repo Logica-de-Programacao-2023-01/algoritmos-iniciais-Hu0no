@@ -1,7 +1,7 @@
-1: C = Celsius, F = Fahrenheit e T = Temperatura
-2: Leia TC ou TF
-3: Se for TC Então
-4: TC * 1,8 + 32 = resultado
-5: Senão Se for TF Então
-6: resultado = (TF - 32) / 1,8
+1: Leia temperatura
+2: Leia unidade
+3: Se unidade igual a Celsius:
+4: resultado = temperatura * 1.8 + 32
+5: Senão:
+6: resultado = (temperatura - 32) / 1,8
 7: Escreva resultado
