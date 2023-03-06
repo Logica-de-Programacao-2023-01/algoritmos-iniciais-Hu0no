@@ -1,0 +1,3 @@
+1: Leia o número
+2: Se número <= 1 Então
+3: resultado = 1
