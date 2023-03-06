@@ -9,4 +9,3 @@
 9: n = n - 1
 10: Fimenquanto
 11: Escreva resultado
-
