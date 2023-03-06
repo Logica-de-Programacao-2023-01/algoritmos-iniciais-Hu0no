@@ -1,0 +1,7 @@
+1. Solicitar lista de números
+2. Ler lista de números
+3. Inicializar a variável soma com 0
+4. Para cada número da lista faça:
+4.1 Adicionar o número a variável soma
+5: Calcule a média da lista de números dividindo a variável soma pela quantidade de números da lista
+6: Escreva o resultado da média
