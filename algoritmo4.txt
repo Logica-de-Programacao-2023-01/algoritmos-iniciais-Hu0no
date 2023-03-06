@@ -1,3 +1,12 @@
-1: Leia o número
-2: Se número <= 1 Então
-3: resultado = 1
+1: número = n
+2: Leia n
+3: Se n <= 1 Então:
+4: resultado = 1
+5: Senão:
+6: Inicializar variável resultado com 1
+7: Enquanto n >= 1 faça:
+8: resultado = n * resultado
+9: n = n - 1
+10: Fimenquanto
+11: Escreva resultado
+
