@@ -1,0 +1,13 @@
+1: x = 2 
+2: Solicitar lista
+3: Solicitar elemento
+4: Ler linha 1
+5: Se linha 1 possuir elemento
+6: Então resultado = 1
+7: Senão:
+8: Enquanto linha x não possuir elemento:
+9: Ler linha x
+10: Verificar se linha x possui elemento
+11: x = x + 1
+12: Fimenquanto
+13: resultado = x - 1 
