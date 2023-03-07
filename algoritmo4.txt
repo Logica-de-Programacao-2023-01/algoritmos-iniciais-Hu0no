@@ -1,4 +1,4 @@
-1: número = n
+1: número = n , n >=0
 2: Leia n
 3: Se n <= 1 Então:
 4: resultado = 1
