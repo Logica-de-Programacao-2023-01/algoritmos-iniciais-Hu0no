@@ -1,0 +1,7 @@
+1: Leia temperatura
+2: Leia unidade
+3: Se unidade igual a Celsius:
+4: resultado = temperatura * 1.8 + 32
+5: Senão:
+6: resultado = (temperatura - 32) / 1,8
+7: Escreva resultado

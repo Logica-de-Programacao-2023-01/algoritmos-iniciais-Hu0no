@@ -1,0 +1,12 @@
+1: Solicitar número
+2: Leia número
+3: Se número < 2
+2: Então resultado = número não é primo
+3: Senão:
+4: x < número
+2: x > 1
+5: Se número / x
+4: Então resultado = número não é primo
+5: Senão:
+6: resultado = número é primo
+7: Escreva resultado

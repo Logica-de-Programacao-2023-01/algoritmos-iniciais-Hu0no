@@ -1,0 +1,16 @@
+1: Solicitar número
+2: Solicitar potência
+3: Se potência = 0 
+4: Então resultado = 1
+5: Senão Se potência = 1
+6: Então resultado = número
+7: Senão se potência > 1
+8: Então faça:
+9: número * número = x
+10: potência = potência - 1
+11: Enquanto potência > 1 faça:
+11: potência = potência - 1
+12: x = x * número
+13: Fimenquanto
+14: resultado = x
+15: Escreva resultado

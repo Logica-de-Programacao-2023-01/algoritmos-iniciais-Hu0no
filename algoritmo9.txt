@@ -1,0 +1,10 @@
+1: Solicitar capital
+2: Solicitar juros
+3: Solicitar tempo
+4: Leia capital
+5: Leia juros
+6: Leia tempo
+7: 1 + juros = x
+8: x * tempo = y
+9: resultado = capital * y
+10: Escreva resultado
